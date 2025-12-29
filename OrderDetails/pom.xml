@@ -16,7 +16,7 @@
     <groupId>com.tns</groupId>
     <artifactId>OrderDetails</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>OrderDetails</name>
+    <name>placementservice</name>
     <description>Placement Management Module</description>
 
     <properties>
